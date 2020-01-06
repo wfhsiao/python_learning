@@ -1,0 +1,14 @@
+['gas', 'fill', 'tire', 'pump', 'credit card', 'windshield', 'salty', 'snack', 'soft drink', 'hot dog', 'besides', 'harmless']	
+replace	把……放回（原處）
+cigarette	香煙，紙煙，煙捲
+salty	有鹽分的；鹹味濃的
+preparation	準備，預備
+convenience	方便；合宜
+learned	有學問的，博學的；精通的
+smoking	冒煙，冒氣
+plenty	豐富；充足；大量
+equipment	配備，裝備
+routine	例行公事；日常工作；慣例；慣常的進程...
+credit	賒帳，賒欠
+Most	（many, much的最高級）最多的；最...
+lottery	獎券，彩票；摸彩，抽籤

@@ -1,0 +1,3 @@
+['million', 'sport', 'team', 'basket', 'shoot', 'court']	
+instead	作為替代
+boost	一舉，一抬；一推

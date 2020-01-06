@@ -1,0 +1,8 @@
+['line', 'handle', 'catch', 'high', 'cheer', 'dribble', 'NBA']	
+learned	有學問的，博學的；精通的
+split	劈開；切開
+learning	學，學習
+professional	職業（上）的；從事特定專業的
+running	奔，賽跑
+making	製造；組合；形成
+passing	經過的；越過的

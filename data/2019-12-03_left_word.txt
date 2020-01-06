@@ -1,0 +1,4 @@
+['line', 'handle', 'catch', 'high', 'cheer', 'dribble', 'NBA']	
+professional	職業（上）的；從事特定專業的
+Most	（many, much的最高級）最多的；最...
+passing	經過的；越過的

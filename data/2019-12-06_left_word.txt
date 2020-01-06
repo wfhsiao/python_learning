@@ -1,0 +1,10 @@
+['see red', 'angry', 'feel blue', 'tickled pink', 'out of the blue', 'green with envy', 'idiom']	
+onto	到……之上；向……之上
+learned	有學問的，博學的；精通的
+being	存在；生存；生命
+idiom	慣用語；成語；習慣語
+writing	書寫；寫作；書面形式
+contest	爭奪，競爭
+disappointed	失望的，沮喪的
+photography	照相術，攝影術
+stick	枝條；柴枝

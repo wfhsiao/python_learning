@@ -1,0 +1,10 @@
+['package', 'assume', 'poison', 'appealing', 'bitter', 'vitamin', 'tobacco']	
+saying	說話，發表言論
+breathe	呼吸；呼氣；吸氣
+smoking	冒煙，冒氣
+easily	容易地，輕易地
+learning	學，學習
+definitely	明確地；明顯地，清楚地
+harmless	無害的
+addicted	沉溺於某種（尤其是不良的）嗜好的；入了迷的
+living	活的；活著的

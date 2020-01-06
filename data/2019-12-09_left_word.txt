@@ -1,0 +1,13 @@
+['gas', 'fill', 'tire', 'pump', 'credit card', 'windshield']	
+gallon	加侖（液量單位，美制等於3.785升，英制...
+suppose	猜想，以為...
+per	經，由，靠
+whenever	無論什麼時候；每當
+possibility	可能性
+easily	容易地，輕易地
+inconvenient	不方便的；打擾的；令人為難的
+credit	賒帳，賒欠
+option	選擇；選擇權；選擇自由
+warning	警告；告誡；警報...
+mileage	總英里數
+windshield	（摩托車的）擋風玻璃

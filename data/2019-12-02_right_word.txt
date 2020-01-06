@@ -1,0 +1,11 @@
+['million', 'sport', 'team', 'basket', 'shoot', 'court']	
+amazing	驚人的，令人吃驚的
+thinking	思想的；有理性的；好思考的
+learned	有學問的，博學的；精通的
+being	存在；生存；生命
+luckily	幸運地；幸好
+dislike	不喜愛，厭惡
+professional	職業（上）的；從事特定專業的
+making	製造；組合；形成
+passing	經過的；越過的
+shooting	發射

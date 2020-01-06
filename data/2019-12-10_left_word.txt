@@ -1,0 +1,8 @@
+['salty', 'snack', 'soft drink', 'hot dog', 'besides']	
+salty	有鹽分的；鹹味濃的
+convenience	方便；合宜
+specific	特殊的，特定的
+thinking	思想的；有理性的；好思考的
+learned	有學問的，博學的；精通的
+credit	賒帳，賒欠
+ranch	（北美的）大牧場，大農場

@@ -1,0 +1,17 @@
+['snowboard', 'slope', 'attach', 'flexible', 'bend', 'parallel', 'treadmill']	
+shell	殼，果殼；莢
+skiing	滑雪（運動）
+injured	having an injury 受傷的
+waterproof	不透水的，防水的
+gear	齒輪；傳動設備；（汽車）排檔
+attach	裝上，貼上，系上
+tropical	熱帶的；位於熱帶的
+equipment	配備，裝備
+learning	學，學習
+helmet	盔；頭盔；鋼盔；帽盔；安全帽
+elementary	基本的
+athletic	運動的，體育的；運動員的，體育家的
+someday	將來有一天，有朝一日
+attached	依戀的，充滿愛心的
+resort	訴諸，憑藉，求助
+seriously	嚴肅地

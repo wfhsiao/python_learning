@@ -1,0 +1,12 @@
+['million', 'sport', 'team', 'basket', 'shoot', 'court', 'line', 'handle', 'catch', 'high', 'cheer', 'dribble', 'NBA', 'sky', 'dan']	
+amazing	驚人的，令人吃驚的
+overnight	通宵；整夜
+thinking	思想的；有理性的；好思考的
+relax	使鬆弛，使鬆懈，放鬆
+learned	有學問的，博學的；精通的
+saw	鋸；鋸開；鋸成
+laser	雷射
+polar	北極的，南極的；極地的
+resort	訴諸，憑藉，求助
+passing	經過的；越過的
+shooting	發射

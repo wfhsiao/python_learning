@@ -1,0 +1,17 @@
+['harmless', 'chemical', 'breathe', 'cancer', 'attention', 'e-cigarette', 'e-liquid', 'nicotine', 'addict', 'vapor']	
+harmful	有害的
+unfortunately	不幸地
+harm	損傷，傷害；危害
+breathe	呼吸；呼氣；吸氣
+relax	使鬆弛，使鬆懈，放鬆
+easily	容易地，輕易地
+manage	管理；經營；處理
+solid	固體的
+thinking	思想的；有理性的；好思考的
+smoking	冒煙，冒氣
+learned	有學問的，博學的；精通的
+vapor	水汽，汽，蒸汽；煙霧
+mostly	大多數地，大部分地；主要地
+found	建立；建造
+heated	熱的
+addicted	沉溺於某種（尤其是不良的）嗜好的；入了迷的

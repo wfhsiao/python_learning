@@ -1,0 +1,11 @@
+['snowboard', 'slope', 'attach', 'flexible', 'bend', 'parallel', 'treadmill']	
+saying	說話，發表言論
+instructor	教員；教練；指導者
+learned	有學問的，博學的；精通的
+equipment	配備，裝備
+finished	完成的；結束了的
+routine	例行公事；日常工作；慣例；慣常的進程...
+learning	學，學習
+eventually	最後，終於
+making	製造；組合；形成
+bent	彎曲的

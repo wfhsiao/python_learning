@@ -1,0 +1,8 @@
+['stay up', 'roof', 'polar bear', 'near', 'overnight', 'resort', 'igloo']	
+amazing	驚人的，令人吃驚的
+overnight	通宵；整夜
+saw	鋸；鋸開；鋸成
+hearing	聽
+polar	北極的，南極的；極地的
+experienced	有經驗的；老練的；熟練的
+resort	訴諸，憑藉，求助

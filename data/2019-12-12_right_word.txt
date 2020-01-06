@@ -1,0 +1,12 @@
+['package', 'assume', 'poison', 'appealing', 'bitter', 'vitamin', 'tobacco']	
+replace	把……放回（原處）
+cigarette	香煙，紙煙，煙捲
+amazing	驚人的，令人吃驚的
+preparation	準備，預備
+learned	有學問的，博學的；精通的
+smoking	冒煙，冒氣
+vapor	水汽，汽，蒸汽；煙霧
+flavor	味，味道
+definitely	明確地；明顯地，清楚地
+caffeine	咖啡因，咖啡鹼
+addicted	沉溺於某種（尤其是不良的）嗜好的；入了迷的
