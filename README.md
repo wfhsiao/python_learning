@@ -1,6 +1,8 @@
 ## python_learning
 1. [markdown guide for colab](https://colab.research.google.com/notebooks/markdown_guide.ipynb?hl=en#scrollTo=5Y3CStVkLxqt)
-1. [pandas user guid](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)
+1. [pandas user guid](https://pandas.pydata.org/pandas-docs/stable/user_guide/index.html)| [Pandas demo](https://colab.research.google.com/drive/1J07IPkq6iQQP1Uq8gUixJ6YoYJnZEkAG?hl=en#scrollTo=VmrH9fkrxgfb)
+1. [week 9 twstock](https://colab.research.google.com/drive/1mKYqF6gcaJ1Du-KB6GVwGIm_xrs3TkPG?hl=en#scrollTo=DhHLExODj0hl)
+1. [project idea](https://colab.research.google.com/drive/1VG55eZ0AOJdF-YpYJ4jPgoiKmz7hfqsw?hl=en#scrollTo=ODMldT0O1mj8)
 
 * practice 7. 產生小學墊板的九九乘法表(分欄)
 此題的重點在於如何產生橫向的重複, 一般迴圈的輸出為緃向. **解法:** 將內外迴圈對調! 參考以下程式碼:
