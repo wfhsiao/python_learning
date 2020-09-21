@@ -1,4 +1,6 @@
-# python_learning
+## python_learning
+1. [markdown guide for colab](https://colab.research.google.com/notebooks/markdown_guide.ipynb?hl=en#scrollTo=5Y3CStVkLxqt)
+
 * practice 7. 產生小學墊板的九九乘法表(分欄)
 此題的重點在於如何產生橫向的重複, 一般迴圈的輸出為緃向. **解法:** 將內外迴圈對調! 參考以下程式碼:
 <pre>
