@@ -2,6 +2,10 @@ dictionary, help
 atoyota, noon
 calendar, phrase
 eht, plehyranoitcidpleh
+
 1234, 567890
 a, b
-aca, aba
+aca, abab
+nono, nan
+
+theend, yes
